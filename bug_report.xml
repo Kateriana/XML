@@ -1,1 +1,12 @@
-
+<bug_report>
+  <number>01</number>
+  <title>Пропущена буква т в слове клетка в описании к товару клетка для хомяка</title>
+  <severity>trivial</severity>
+  <steps_to_reproduce>
+	   <1>Открыть раздел товаря для домашних животных</1>
+	   <2>Открыть карточку Клетка для хомяка</2>
+	   <3>Второй абзац, 2 строка</3>
+  </steps_to_reproduce>
+  <actual_result>клека</actual_result>
+  <expected_result>клетка</expected_result>
+</bug_report>
